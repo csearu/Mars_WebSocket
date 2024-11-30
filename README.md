@@ -1,5 +1,5 @@
-## Readme File for Mars
-
+## Readme File for Mars :joy:
+```
 mars-life-support-monitor/
 ├── src/main/java/com/mars/monitor/
 │   ├── MarsLifeSupportMonitorApplication.java  # Main Application Class
@@ -13,3 +13,4 @@ mars-life-support-monitor/
 │       └── SensorDataService.java             # Service to Simulate Data
 └── src/main/resources/
     └── application.properties                 # App Configuration
+```
